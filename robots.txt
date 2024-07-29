@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iskintel.github.io/sitemap.html.gz
+Sitemap: https://iskintel.github.io/app/sitemap.html.gz
+Sitemap: https://iskintel.github.io/assets/sitemap.html.gz
+Sitemap: https://iskintel.github.io/css/sitemap.html.gz
+Sitemap: https://iskintel.github.io/includes/sitemap.html.gz
+Sitemap: https://iskintel.github.io/item/sitemap.html.gz
+Sitemap: https://iskintel.github.io/src/sitemap.html.gz
